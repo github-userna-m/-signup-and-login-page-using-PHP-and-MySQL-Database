@@ -40,7 +40,7 @@ CREATE TABLE `registrartion_user` (
 
 INSERT INTO `registrartion_user` (`full_name`, `username`, `email`, `password`) VALUES
 ('mahi', 'mahian', 'mahi@gmail.com', '12345'),
-('ioui', 'opiutr', 'oiuro', '8930'),
+('john', 'joe', 'john@gmail.com', '8930'),
 ('ram', 'ram', 'ram@gmail.com', '123'),
 ('shiv', 'shiva', 'shiv@gmail.com', '$2y$10$k1LI4oQtixcI3DFGiQrJW.hGV1BM2OnUYSFzCGC7wi7989wvyaYPq');
 
