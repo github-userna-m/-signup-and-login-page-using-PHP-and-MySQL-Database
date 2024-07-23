@@ -96,7 +96,7 @@ if(isset($_POST['login'])){
       }else{
 
          echo "<script> alert('EMAIL OR USERNAME not Registered.') ;
-               window.location.href='home.php';
+               window.location.href='index.php';
               </script>";
       }
    }
